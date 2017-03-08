@@ -1,0 +1,4 @@
+EXPORTS
+	InjectMain=InjectMain
+	InjectRecords=InjectRecords
+	InjectUnload=InjectUnload
